@@ -12,7 +12,7 @@ https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Configuration.pdf
 
 ## Hardware
 
-- Gigabyte ASUS ROG STRIX Z390-I GAMING
+- ASUS ROG STRIX Z390-I GAMING
 - Intel Core i5-8500T
 - 2 x Kingston HyperX Predator 8GB DDR4 3000MHz
 - 1 x SAPPHIRE Radeon Nitro+ RX 580 8GB
